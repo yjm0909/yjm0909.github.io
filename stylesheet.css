@@ -197,6 +197,7 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: #EAD9FF;
 }
 
 .menu-icon {
@@ -223,7 +224,7 @@ footer {
 
   footer {
     text-align: center;
-    background-color: #98FB98;
+    
   }
 }
 
