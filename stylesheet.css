@@ -39,6 +39,11 @@ a {
   color: #EEE8AA;
 }
 
+.face{
+  color: #FF773E;
+  font-weight: bold;
+}
+
 .btn-wrapper {
   text-align: center;
 }
