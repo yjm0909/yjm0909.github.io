@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: red;
+  
   text-align: center;
 }
 
@@ -29,12 +29,14 @@ a {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
+  color: white;
 }
 
 .top-wrapper p {
   opacity: 0.7;
   font-size: 16px;
   margin-bottom: 40px;
+  color: #EEE8AA;
 }
 
 .btn-wrapper {
@@ -162,6 +164,7 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
+  background-color: #B0E0E6;
 }
 
 .message {
@@ -215,6 +218,7 @@ footer {
 
   footer {
     text-align: center;
+    background-color: #98FB98;
   }
 }
 
